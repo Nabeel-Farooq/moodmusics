@@ -1,8 +1,5 @@
 # MoodMusics
 MoodMusics is a music player which play songs based on your mood.<br />
-Check it out now: https://moodmusics.up.railway.app/  
-
-Also, check out this repo for notebook on how I trained my model : https://github.com/akash720/Facial-expression-recognition
 
 ## General dependencies
 django==4.0.1 <br />
@@ -21,9 +18,6 @@ Pillow==9.0.0 <br />
 ## Steps
 - Make a virtual environment
 - Activate virtual environment
-- Download or clone this repo by [git clone https://github.com/akash720/moodmusics.git](https://github.com/akash720/moodmusics.git)
+- Download or clone this repo 
 - pip install -r requirements.txt
 - Run the app using python manage.py runserver
-
-Made with :heart: by
-**Akash Jain**  - [linkedin.com/akash-jain-248b55137](https://www.linkedin.com/in/akash-jain-248b55137/)
